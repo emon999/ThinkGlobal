@@ -1,5 +1,5 @@
 # ThinkGlobal
 Project: Developing a One-page Website Implementation 
-
-2. Added/Updated HTML & CSS
-3. Updated the CSS content
+Elliot Monika - 660202398
+https://github.com/emon999/ThinkGlobal.git
+https://github.com/emon999/ThinkGlobal
